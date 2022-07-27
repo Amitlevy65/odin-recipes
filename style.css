@@ -1,9 +1,36 @@
+*{
+    font-family: DejaVu Sans;
+}
+
+.headcontainer{
+    background-color: #ddac23;
+    align-content: center;
+}
+
 .head_image{
     width: 300px;
-    height: 200px;
+    height: 200px;   
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 
 .home_image{
     width: auto;
     height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.headliner{
+    background-color: #ddac23;
+    font-weight: 600;
+    width: fit-content;
+    border-radius: 15%;
+}
+
+.headliner.semi{
+    background-color: #f1a863;
+    font-weight: 500;
 }
