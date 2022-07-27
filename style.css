@@ -28,9 +28,18 @@
     font-weight: 600;
     width: fit-content;
     border-radius: 15%;
+    font-style: italic;
 }
 
 .headliner.semi{
     background-color: #f1a863;
     font-weight: 500;
 }
+
+.links{
+    font-size: 17px;
+    font-weight: bold;
+    color: rgb(204, 75, 204);
+    font-style: italic;
+}
+
